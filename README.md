@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there, I'm /dev/tty 👋
 
-<!--
-**pagertty/pagertty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :raised_hand: About Me
 
-Here are some ideas to get you started:
+- 🌟 Motto: Curiosity Is the engine of achievement.
+- 🌱 Hobby: Coding & 🎽 Running Shirt & 🎱 Pool 8 Ball & 🎪 Circus Tent & more.
+- 🏢 Office: Boston, MA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Languages and Tools
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-35495c?style=flat-square&logo=TypeScript&logoColor=default)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=React&logoColor=default)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=flat-square&logo=SCSS&logoColor=default)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=default)
+
+#### :trophy:My Works
+
+<p>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pagertty&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pagertty&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=great-gatsby"/>
+</p>
