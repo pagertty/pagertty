@@ -13,9 +13,3 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=flat-square&logo=SCSS&logoColor=default)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=default)
 
-#### :trophy:My Works
-
-<p>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pagertty&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby"/>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pagertty&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=great-gatsby"/>
-</p>
